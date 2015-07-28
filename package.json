@@ -1,0 +1,19 @@
+{
+  "name": "phaserExample",
+  "version": "1.0.0",
+  "description": "A space ship game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BuildGamesWithUs/GameEngineExamples.git"
+  },
+  "author": "jaegerpicker@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuildGamesWithUs/GameEngineExamples/issues"
+  },
+  "homepage": "https://github.com/BuildGamesWithUs/GameEngineExamples"
+}
